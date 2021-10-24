@@ -1,0 +1,19 @@
+
+ Proporcão de candidatos por vagas: 
+API .NET: 48%
+ iOS: 17%
+ QA: 35%
+
+ Idade media dos candidato de QA: 26 anos
+
+ Candidato(a) mais velho(a) dos candidato de iOS: Daniel Melo
+
+ Candidato(a) mais novo(a) dos candidato de API .NET: Camila Barros
+
+ A soma da idade de todos candidatos do API .NET: 2635
+
+ Número de estados distintos presentes na lista : 7
+
+ lista ordenada em ordem alfabética e foi salva com o nome: sorted_AppAcademy_candidates.csv
+
+ Instrutor de iOS: Vitor Costa
