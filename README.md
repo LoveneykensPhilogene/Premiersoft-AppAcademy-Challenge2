@@ -1,8 +1,8 @@
 # AppAcademy Challenge
 
-##Linguagem de programação utilizada : #JAVA
+## Linguagem de programação utilizada : JAVA 11
 
-## IDE : #SPRING TOOL 4
+## IDE : SPRING TOOL SUITE 4
 
 
 ## Sobre o desafio 🎯
