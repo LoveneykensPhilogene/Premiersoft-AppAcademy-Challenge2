@@ -1,0 +1,231 @@
+Nome;Idade;Vaga;Estado
+Alex Santos;21 anos;QA;SC
+Alex Sousa;18 anos;QA;SC
+Alice Gomes;27 anos;API .NET;SC
+Alice Lima;22 anos;API .NET;SC
+Aline Cunha;24 anos;iOS;SC
+Aline Fernandes;20 anos;API .NET;SC
+Aline Martins;33 anos;iOS;SC
+Amanda Cardoso;22 anos;API .NET;SC
+Amanda Pinto;29 anos;API .NET;SC
+Ana Castro;19 anos;API .NET;SC
+Ana Correia;24 anos;QA;SC
+André Melo;23 anos;API .NET;SC
+André Souza;26 anos;iOS;SC
+Anna Almeida;26 anos;QA;SC
+Anna Carvalho;18 anos;QA;SC
+Anna Costa;30 anos;API .NET;GO
+Anna Costa;18 anos;iOS;SC
+Anna Santos;32 anos;iOS;SC
+Antônio Cavalcanti;23 anos;API .NET;SC
+Antônio Ribeiro;24 anos;QA;SC
+Arthur Barbosa;28 anos;API .NET;SC
+Arthur Cardoso;29 anos;API .NET;SP
+Arthur Fernandes;26 anos;API .NET;SC
+Arthur Goncalves;20 anos;API .NET;SC
+Arthur Oliveira;41 anos;QA;SC
+Beatrice Araujo;20 anos;API .NET;SC
+Beatrice Pereira;21 anos;API .NET;SC
+Beatriz Alves;28 anos;iOS;SC
+Beatriz Rodrigues;18 anos;QA;SC
+Bianca Azevedo;20 anos;API .NET;SC
+Bianca Castro;22 anos;API .NET;SC
+Bianca Cunha;35 anos;API .NET;SC
+Brenda Gomes;18 anos;API .NET;SC
+Brenda Sousa;50 anos;API .NET;SC
+Breno Pereira;19 anos;API .NET;SC
+Bruna Martins;19 anos;API .NET;SC
+Caio Melo;18 anos;API .NET;SC
+Camila Barros;17 anos;API .NET;SC
+Camila Cardoso;22 anos;API .NET;SC
+Camila Lima;18 anos;QA;SC
+Carla Barros;28 anos;API .NET;SC
+Carlos Martins;28 anos;QA;SC
+Carlos Martins;24 anos;QA;SC
+Carolina Goncalves;22 anos;API .NET;SC
+Carolina Sousa;20 anos;QA;SC
+Clara Lima;23 anos;QA;SC
+Daniel Melo;55 anos;iOS;SC
+Daniel Pinto;27 anos;API .NET;SC
+Daniel Vieck;23 anos;iOS;SC
+Danilo Correia;47 anos;QA;SC
+Davi Barros;20 anos;API .NET;SC
+Davi Ferreira;33 anos;QA;SC
+Diego Barbosa;25 anos;iOS;RJ
+Diego Castro;22 anos;API .NET;SC
+Diego Pereira;28 anos;API .NET;SC
+Douglas Barros;30 anos;QA;SC
+Eduarda Barros;21 anos;API .NET;SC
+Eduarda Silva;24 anos;iOS;SC
+Eduardo Oliveira;28 anos;API .NET;SC
+Eduardo Souza;27 anos;iOS;SC
+Emilly Barros;37 anos;API .NET;SC
+Emilly Fernandes;24 anos;API .NET;SC
+Emilly Pereira;21 anos;iOS;SC
+Emilly Sousa;19 anos;API .NET;SP
+Emily Cunha;35 anos;QA;SC
+Emily Ferreira;22 anos;API .NET;SC
+Enzo Barros;24 anos;QA;SC
+Enzo Barros;24 anos;API .NET;SC
+Erick Santos;18 anos;QA;SC
+Estevan Alves;30 anos;API .NET;PR
+Estevan Castro;23 anos;API .NET;SC
+Estevan Cavalcanti;26 anos;iOS;SP
+Estevan Rocha;21 anos;QA;SC
+Estevan Rodrigues;19 anos;API .NET;SC
+Evelyn Carvalho;24 anos;QA;SC
+Evelyn Rodrigues;18 anos;QA;SC
+Felipe Fernandes;22 anos;API .NET;SP
+Fernanda Almeida;26 anos;QA;SC
+Fernanda Barbosa;31 anos;API .NET;SC
+Fernanda Goncalves;24 anos;QA;SC
+Fernanda Ribeiro;46 anos;QA;SC
+Fernanda Santos;19 anos;QA;SC
+Fernandu Vieira;29 anos;QA;SC
+Gabriel Costa;20 anos;API .NET;SC
+Gabriela Correia;27 anos;QA;SC
+Gabrielle Costa;28 anos;QA;SC
+Gabrielle Rocha;20 anos;API .NET;SC
+Gabrielle Rodrigues;18 anos;API .NET;SC
+Gabrielly Azevedo;25 anos;iOS;SC
+Gabrielly Cardoso;40 anos;QA;SC
+Gabrielly Cunha;22 anos;iOS;SC
+Gabrielly Cunha;20 anos;QA;SC
+Giovanna Castro;32 anos;QA;SC
+Giovanna Costa;22 anos;API .NET;SC
+Giovanna Cunha;21 anos;QA;SC
+Giovanna Silva;24 anos;QA;SC
+Guilherme Oliveira;30 anos;QA;SP
+Guilherme Ribeiro;29 anos;API .NET;SC
+Gustavo Costa;20 anos;QA;SC
+Heitor Goncalves;23 anos;QA;SC
+Igor Martins;21 anos;QA;SC
+Isabela Araujo;20 anos;API .NET;SC
+Isabella Carvalho;18 anos;iOS;SC
+Isabella Ribeiro;25 anos;iOS;SC
+Isabelle Cardoso;18 anos;API .NET;SC
+Isabelle Dias;22 anos;API .NET;SC
+Isabelle Ribeiro;38 anos;iOS;SC
+Isabelle Rocha;23 anos;API .NET;SC
+José Goncalves;30 anos;API .NET;SC
+José Santos;27 anos;API .NET;RJ
+José Silva;48 anos;QA;SC
+João Cunha;18 anos;API .NET;SC
+João Gomes;19 anos;API .NET;SC
+Julia Castro;19 anos;API .NET;SC
+Julian Cardoso;40 anos;QA;SC
+Julian Cardoso;24 anos;QA;SC
+Julieta Pinto;33 anos;API .NET;SC
+Júlia Azevedo;35 anos;iOS;AM
+Júlio Fernandes;26 anos;API .NET;SC
+Kai Carvalho;25 anos;QA;SC
+Kai Dias;28 anos;API .NET;SC
+Kaua Ferreira;26 anos;iOS;SP
+Kauan Dias;29 anos;iOS;SC
+Kauan Ferreira;30 anos;API .NET;SC
+Kauan Martins;23 anos;API .NET;SC
+Kauã Cardoso;18 anos;QA;SC
+Kauã Ferreira;19 anos;iOS;SC
+Kauê Araujo;23 anos;QA;SC
+Kauê Souza;19 anos;QA;SC
+Lara Fernandes;19 anos;iOS;SC
+Larissa Ribeiro;25 anos;API .NET;SP
+Leila Costa;21 anos;iOS;SC
+Leila Silva;22 anos;API .NET;SC
+Leonardo Alves;20 anos;API .NET;SC
+Leonardo Silva;19 anos;iOS;SC
+Leonor Gomes;18 anos;API .NET;SC
+Leonor Oliveira;32 anos;QA;SC
+Letícia Ribeiro;34 anos;API .NET;SC
+Livia Araujo;39 anos;iOS;SC
+Livia Cunha;19 anos;API .NET;SC
+Livia Rodrigues;18 anos;iOS;SC
+Luana Rodrigues;29 anos;QA;SC
+Luana Santos;23 anos;API .NET;SC
+Lucas Araujo;54 anos;API .NET;SC
+Luis Dias;19 anos;API .NET;SC
+Luiz Gomes;20 anos;iOS;SC
+Luiza Cunha;21 anos;QA;SP
+Luís Almeida;19 anos;API .NET;SC
+Luís Lima;18 anos;API .NET;SC
+Manuela Dias;35 anos;API .NET;SC
+Manuela Gomes;22 anos;QA;SC
+Marcos Rodrigues;33 anos;API .NET;SC
+Marcos Souza;27 anos;QA;SC
+Maria Alves;19 anos;QA;SP
+Maria Ferreira;26 anos;API .NET;SC
+Maria Oliveira;18 anos;API .NET;SC
+Mariana Oliveira;18 anos;iOS;SC
+Mariana Rodrigues;27 anos;API .NET;SC
+Marina Costa;34 anos;API .NET;SC
+Marina Goncalves;18 anos;QA;SC
+Marina Pinto;18 anos;QA;SC
+Marisa Cardoso;27 anos;iOS;SC
+Martim Almeida;24 anos;QA;SC
+Martim Azevedo;19 anos;API .NET;SC
+Mateus Silva;24 anos;QA;SC
+Matheus Alves;50 anos;iOS;SC
+Matheus Barbosa;22 anos;iOS;SC
+Matheus Carvalho;18 anos;API .NET;SC
+Matilde Barros;25 anos;API .NET;SC
+Matilde Carvalho;33 anos;QA;SC
+Matilde Rodrigues;18 anos;API .NET;SC
+Melissa Cunha;19 anos;QA;SC
+Miguel Correia;29 anos;QA;SC
+Miguel Fernandes;27 anos;API .NET;SC
+Miguel Rodrigues;39 anos;QA;SC
+Murilo Gomes;22 anos;API .NET;SC
+Nicolas Almeida;33 anos;QA;SC
+Nicolas Araujo;28 anos;iOS;SP
+Nicolash Almeida;18 anos;iOS;SC
+Nicolash Cunha;27 anos;QA;SC
+Nicole Carvalho;33 anos;QA;SC
+Nicole Ferreira;22 anos;API .NET;SC
+Nicole Sousa;18 anos;API .NET;SC
+Otávio Fernandes;30 anos;QA;SC
+Otávio Ferreira;18 anos;API .NET;SC
+Paulo Cunha;18 anos;API .NET;SC
+Paulo Gomes;19 anos;iOS;SC
+Paulo Goncalves;24 anos;API .NET;SC
+Paulo Rocha;19 anos;QA;SC
+Pedro Barros;20 anos;API .NET;SC
+Rafael Araujo;19 anos;iOS;SC
+Rafael Castro;36 anos;API .NET;SC
+Rafael Cavalcanti;19 anos;API .NET;SC
+Rafael Costa;18 anos;API .NET;SC
+Rafael Martins;32 anos;QA;SC
+Rafael Pinto;28 anos;API .NET;SC
+Rafaela Cunha;18 anos;API .NET;SC
+Raissa Ribeiro;30 anos;API .NET;SC
+Rebeca Araujo;20 anos;iOS;SC
+Renan Cunha;22 anos;API .NET;SC
+Renan Ferreira;38 anos;QA;SC
+Renan Goncalves;21 anos;API .NET;SC
+Rodrigo Carvalho;24 anos;API .NET;SC
+Ryan Barbosa;18 anos;QA;SC
+Ryan Souza;20 anos;iOS;SC
+Samuel Fernandes;19 anos;API .NET;SC
+Samuel Ribeiro;25 anos;QA;SC
+Sarah Rodrigues;49 anos;QA;SC
+Sofia Alves;23 anos;QA;SC
+Sofia Rodrigues;20 anos;iOS;SC
+Sophia Correia;18 anos;API .NET;SC
+Thaís Barbosa;31 anos;QA;SC
+Thaís Cavalcanti;20 anos;QA;AL
+Thiago Carvalho;20 anos;API .NET;SC
+Tiago Barros;20 anos;QA;SC
+Tiago Oliveira;30 anos;API .NET;SC
+Tomás Cunha;19 anos;QA;SC
+Tânia Rodrigues;32 anos;API .NET;SC
+Victor Cardoso;18 anos;API .NET;SC
+Vinícius Azevedo;34 anos;QA;SC
+Vinícius Fernandes;28 anos;iOS;SC
+Vitor Costa;23 anos;API .NET;SC
+Vitor Gomes;42 anos;QA;SC
+Vitória Dias;20 anos;QA;SC
+Vitória Fernandes;18 anos;QA;SC
+Yasmin Dias;21 anos;API .NET;SC
+Ágatha Almeida;26 anos;QA;SC
+Ágatha Santos;26 anos;API .NET;SC
+Ágatha Sousa;28 anos;API .NET;SC
+Ágatha Souza;23 anos;QA;SC
